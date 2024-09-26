@@ -1,2 +1,2 @@
-# Git_Course
-Learn for git course
+# HTML&CSS_Template
+Learn for HTML&CSS course
